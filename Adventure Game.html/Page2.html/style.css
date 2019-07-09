@@ -1,5 +1,37 @@
-img {
+/*img {
     width: 195px;
     height: 195px;
+}*/
+
+body{
+    background-image: url("https://cdn0.iconfinder.com/data/icons/disaster-blaster/250/Landslide-512.png");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
+.cute-deer{
+    margin-top: 0.8px;
+    margin-left: 719px;
+}
+
+.cute-baby-dog{
+    margin-top: 25px;
+    margin-left: 570px; 
+}
+
+.Cute-Baby-Lamb-Sheep{
+    margin-top: 16px;
+    margin-left: 455px;
+}
+
+.page2{
+  background-image: url("https://images.vexels.com/media/users/3/134884/isolated/lists/48e6880a62eaa4c1da1cbbc0880804ec-worry-sad-emoji-emoticon.png");
+  background-repeat: no-repeat;
+  background-size: 900px;
+}
+
+.page9{
+    background-image: url("https://cdn-images-1.medium.com/max/1200/1*uKWP4LhWl_NogzkQMxbGRw.png");
+    background-repeat: no-repeat;
+    background-size:900px;
+}
