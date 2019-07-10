@@ -3,7 +3,7 @@
     height: 195px;
 }*/
 
-body{
+.body{
     background-image: url("https://cdn0.iconfinder.com/data/icons/disaster-blaster/250/Landslide-512.png");
     background-repeat: no-repeat;
     background-size: cover;
@@ -32,6 +32,20 @@ body{
 
 .page9{
     background-image: url("https://cdn-images-1.medium.com/max/1200/1*uKWP4LhWl_NogzkQMxbGRw.png");
+    background-image: url("https://cdn-images-1.medium.com/max/1200/1*uKWP4LhWl_NogzkQMxbGRw.png");
     background-repeat: no-repeat;
-    background-size:900px;
+    background-size:870px;
 }
+
+.page6{
+    background-image: url("https://cdn.shopify.com/s/files/1/1061/1924/products/Very_Mad_Emoji_Icon_ios10_large.png?v=1542436019");
+    background-repeat: no-repeat;
+    background-size: 875px;
+}
+
+.page5{
+    width: 390px;
+    height: 390px;
+}
+
+   
