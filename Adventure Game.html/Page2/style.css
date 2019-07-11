@@ -8,48 +8,67 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
-
 .cute-deer{
     margin-top: 0.8px;
     margin-left: 719px;
 }
-
 .cute-baby-dog{
     margin-top: 25px;
     margin-left: 570px; 
 }
-
 .Cute-Baby-Lamb-Sheep{
     margin-top: 16px;
     margin-left: 455px;
 }
-
 .page2{
   background-image: url("https://images.vexels.com/media/users/3/134884/isolated/lists/48e6880a62eaa4c1da1cbbc0880804ec-worry-sad-emoji-emoticon.png");
   background-repeat: no-repeat;
   background-size: 900px;
 }
-
 .page9{
     background-image: url("https://cdn-images-1.medium.com/max/1200/1*uKWP4LhWl_NogzkQMxbGRw.png");
     background-image: url("https://cdn-images-1.medium.com/max/1200/1*uKWP4LhWl_NogzkQMxbGRw.png");
     background-repeat: no-repeat;
     background-size:870px;
 }
-
 .page6{
     background-image: url("https://cdn.shopify.com/s/files/1/1061/1924/products/Very_Mad_Emoji_Icon_ios10_large.png?v=1542436019");
     background-repeat: no-repeat;
     background-size: 875px;
 }
-
 .page5{
     width: 390px;
     height: 390px;
 }
-
 .page7{
     width: 650px;
     height: 650px;
 }
-   
+.page8{
+    width: 650;
+    height: 650;
+}
+/*.page4{
+    background-image: url(" ");
+    background-repeat: no-repeat;
+    background-size: 475px;
+}*/
+.page4{
+    width: 450;
+    height: 450;
+}
+.page13{
+    background-image: url("https://www.backgroundcheckall.com/wp-content/uploads/2017/12/background-langit-sore-4.jpg");
+    background-repeat: no-repeat;
+    background-size: 3006px;
+  }
+
+/*.page13{
+    background-image: url ("https://www.backgroundcheckall.com/wp-content/uploads/2017/12/background-langit-sore-4.jpg");
+    background-repeat: no-repeat;
+    background-size: 875px;
+}
+.page13{
+    width: 450px;
+    height: 450px;
+}*/
