@@ -4,7 +4,7 @@
 }*/
 
 .body{
-    background-image: url ("Landslide-512-removebg-preview.png");
+    background-image: url(landslide.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -17,11 +17,11 @@
     margin-left: 570px; 
 }
 .Cute-Baby-Lamb-Sheep{
-    margin-top: 16px;
+    margin-top: 17px;
     margin-left: 455px;
 }
 .page2{
-  background-image: url("https://o.remove.bg/downloads/08255b46-0502-4431-af48-3611b7de48ca/48e6880a62eaa4c1da1cbbc0880804ec-worry-sad-emoji-emoticon-removebg-preview.png");
+  background-image: url("https://i.pinimg.com/originals/1a/7a/8d/1a7a8d70d14bce7992edc73f84f9b991.png");
   background-repeat: no-repeat;
   background-size: 900px;
 }
